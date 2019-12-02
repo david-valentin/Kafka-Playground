@@ -1,1 +1,1 @@
-# kafka_tutorial
+# Kafka Playground
